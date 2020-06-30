@@ -7,3 +7,5 @@ Hier stehen Infos zu meinem Lieblingscharakter
 
 > Ich zitiere meinen
 > Lieblingscharakter
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Black_from_a_camera.jpg">
